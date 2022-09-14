@@ -3,7 +3,7 @@ public static int riddle(int x, Point p){
       x = x+7;
       //p.x += 2;
       return x+p.x+p.y;
-   }
+}
    
  //clone 2  
 public static double distance(Point p1, Point p2){
@@ -25,11 +25,6 @@ box1.grow(1, 1);
 Point p2 = findCenter(box1);
 printPoint(p2);
       
-   /*
-   p2.x += 1;
-   printPoint(p1);
-   printPoint(p2);
-   */
 
 public static void printPoint(Point p){
       System.out.println("("+p.x+", "+p.y+")");
@@ -54,7 +49,7 @@ public static BigInteger pow(int x, int n) {
       else {
          return t.multiply(t).multiply(BigInteger.valueOf(x));
       } 
-   }
+}
    
  //clone 7
 import java.math.BigInteger;
@@ -505,4 +500,4 @@ public class Deck {
    }
 
 }
-Footer
+
