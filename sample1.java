@@ -3,7 +3,7 @@ public static int riddle(int x, Point p){
       x = x+7;
       //p.x += 2;
       return x+p.x+p.y;
-   }
+}
    
  //clone 2  
 public static double distance(Point p1, Point p2){
@@ -54,7 +54,7 @@ public static BigInteger pow(int x, int n) {
       else {
          return t.multiply(t).multiply(BigInteger.valueOf(x));
       } 
-   }
+ }
    
  //clone 7
 import java.math.BigInteger;
@@ -236,7 +236,6 @@ public class Tile{
 
 
 // clone 11
-
 public class Time{
 
    public static void main(String[] args){
