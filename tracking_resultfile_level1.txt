@@ -1,0 +1,40 @@
+cloneset1
+['R1CodeBlock1', 'R1CodeBlock10']
+
+cloneset2
+['R1CodeBlock3', 'R1CodeBlock13']
+
+cloneset3
+['R1CodeBlock2', 'R1CodeBlock11']
+
+cloneset4
+['R1CodeBlock4', 'R1CodeBlock12']
+
+cloneset5
+['R1CodeBlock6', 'R1CodeBlock14']
+
+cloneset6
+['R1CodeBlock8', 'R1CodeBlock16']
+
+cloneset7
+['R1CodeBlock7', 'R1CodeBlock15']
+
+cloneset8
+['R1CodeBlock9', 'R1CodeBlock17']
+
+cloning_percentage = 96.14835948644793
+FILE LEVEL INFORMATIONtotal_files = 17
+final_revision = 1
+files_containing_clones = 16
+added_files = 16
+deleted_files = 0
+CLONESETS INFORMATIONtotal_clone_sets = 8
+stable_clonesets = 0
+new_clonesets = 8
+deleted_clonesets = 0
+changed_clonesets = 0
+CODECLONES INFORMATIONtotal_codeclones = 16
+stable_codeclones = 0
+new_codeclones = 16
+deleted_codeclones = 0
+changed_codeclones = 0

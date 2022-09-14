@@ -1,0 +1,52 @@
+cloneset1
+['R11CodeBlock16', 'R11CodeBlock4']
+
+cloneset2
+['R11CodeBlock3', 'R11CodeBlock13']
+
+cloneset3
+['R11CodeBlock21', 'R11CodeBlock9']
+
+cloneset4
+['R11CodeBlock15', 'R11CodeBlock25']
+
+cloneset5
+['R11CodeBlock23', 'R11CodeBlock11']
+
+cloneset6
+['R11CodeBlock22', 'R11CodeBlock10']
+
+cloneset7
+['R11CodeBlock14', 'R11CodeBlock26']
+
+cloneset8
+['R11CodeBlock17', 'R11CodeBlock5']
+
+cloneset9
+['R11CodeBlock24', 'R11CodeBlock12']
+
+cloneset10
+['R11CodeBlock18', 'R11CodeBlock6']
+
+cloneset11
+['R11CodeBlock20', 'R11CodeBlock8']
+
+cloneset12
+['R11CodeBlock19', 'R11CodeBlock7']
+
+cloning_percentage = 27.38944365192582
+FILE LEVEL INFORMATIONtotal_files = 17
+final_revision = 1
+files_containing_clones = 8
+added_files = 8
+deleted_files = 0
+CLONESETS INFORMATIONtotal_clone_sets = 12
+stable_clonesets = 0
+new_clonesets = 12
+deleted_clonesets = 0
+changed_clonesets = 0
+CODECLONES INFORMATIONtotal_codeclones = 24
+stable_codeclones = 0
+new_codeclones = 24
+deleted_codeclones = 0
+changed_codeclones = 0
